@@ -10,6 +10,7 @@ Se crea una interfaz con la anotación `@WebService` y un metodo **authTest** en
 ![Imgur](http://i.imgur.com/t59K531.png)
 
 3. WsAuthImpl.java
+	
 	3.1. Se define donde se encuentra la interfaz de tipo Web Service con la etiqueta `@webService(endpointInterface="")` y se la implementa en la clase.
 
 ![Imgur](http://i.imgur.com/5BCejLO.png)
